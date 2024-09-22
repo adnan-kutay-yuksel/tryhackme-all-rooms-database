@@ -12,7 +12,7 @@ This project aims to:
 ## Collected Information
 
 The following details are collected for each TryHackMe room:
-
+ 
 - **Name**: The title of the room.
 - **Link**: URL of the room.
 - **Difficulty**: Difficulty level of the room (e.g., Easy, Medium, Hard).
