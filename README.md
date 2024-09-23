@@ -38,3 +38,29 @@ For inquiries or suggestions, please reach out to [me](mailto:a.k.yuksel@hotmail
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+
+
+
+| Field                  | Description                                             |
+|------------------------|---------------------------------------------------------|
+| **Name**               | The title of the room.                                 |
+| **Link**               | URL of the room.                                      |
+| **Difficulty**         | Difficulty level (e.g., Easy, Medium, Hard).          |
+| **Room Type**          | Type of the room (CTF, Walkthrough, etc.).            |
+| **Subscription Type**  | Indicates if the room is free or requires a subscription. |
+| **Description**        | Brief overview of the room.                            |
+| **Created At**         | The date the room was created.                         |
+| **Number of Completion**| How many users have completed the room.               |
+| **Number of Tasks**    | Total tasks within the room.                           |
+| **Creators List**      | List of creators who contributed to the room.         |
+| **Duration**           | Estimated duration to complete the room, in minutes.  |
+
+
+
+
+
+
+
+
