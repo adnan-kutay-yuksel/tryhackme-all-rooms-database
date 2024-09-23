@@ -40,6 +40,18 @@ For inquiries or suggestions, please reach out to [me](mailto:a.k.yuksel@hotmail
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
+392		https://tryhackme.com/r/room/operatingsystemsecurity			Subsciption
+393		https://tryhackme.com/r/room/introdigitalforensics			Free
+394		https://tryhackme.com/r/room/snortchallenges2			Subsciption
+395		https://tryhackme.com/r/room/snort			Free
+396		https://tryhackme.com/r/room/biteme			Subsciption
+397		https://tryhackme.com/r/room/introtoc2			Subsciption
+398		https://tryhackme.com/r/room/ohmyweb			Subsciption
+399		https://tryhackme.com/r/room/hackinghadoop			Subsciption
+400		https://tryhackme.com/r/room/redteamnetsec			Subsciption
+401		https://tryhackme.com/r/room/windowsinternals			Subsciption
+
+
 
 
 | COMPLETE | NO  | NAME                                     | LINK | DESCRIPTION | DIFFICULTY | SUBSCRIPTION TYPE | DURATION | CREATED DATE | ROOM TYPE | TOOL TYPES | TOOLS LIST | COLOR | CATEGORY | TARGET SYSTEMS | TUTORIAL LIST | PREREQUISITES | RELATED ROOMS |
