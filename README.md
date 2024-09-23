@@ -39,10 +39,7 @@ For inquiries or suggestions, please reach out to [me](mailto:a.k.yuksel@hotmail
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-
-							OTOMATİZE EDİLİP DOLDURULMUŞ										OTOMATİZE EDİLEMEYEN		PLANLANAN									
-																									Topic category (e.g., Web, Networking, Forensics).			
-	NO		NAME		LINK		DESCRIPTION		DIFFICULTY		SUBSCRIPTION TYPE		DURATION		CREATED DATE		ROOM TYPE		TOOL TYPES		TOOLS LIST		COLOR		CATEGORY		TARGET SYSTEMS	
+|	NO	|	NAME	|	LINK	|	DESCRIPTION	|	DIFFICULTY	|	SUBSCRIPTION TYPE	|	DURATION	|	CREATED DATE	|	ROOM TYPE	|	TOOL TYPES	|	TOOLS LIST	|	COLOR	|	CATEGORY	|	TARGET SYSTEMS	|
 |	1	|	Breakme	|	https://tryhackme.com/r/room/breakmenu	|	Break this secure system and get the flags, if you can.	|	Medium	|	Free	|	160	|		|		|		|		|		|		|		|
 |	2	|	Linux Incident Surface	|	https://tryhackme.com/r/room/linuxincidentsurface	|	Explore various areas of Incident Surface in Linux and how to identify the footprints of the incident.	|	Easy	|	Subsciption	|		|		|		|		|		|		|		|		|
 |	3	|		|	https://tryhackme.com/r/room/jwtsecurity	|		|		|	Subsciption	|		|		|		|		|		|		|		|		|
@@ -901,12 +898,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |	856	|		|	https://tryhackme.com/r/room/introtodetectionengineering	|		|		|		|		|		|		|		|		|		|		|		|
 |	857	|		|	https://tryhackme.com/r/room/tickets1	|		|		|		|		|		|		|		|		|		|		|		|
 |	858	|		|	https://tryhackme.com/r/room/battery	|		|		|		|		|		|		|		|		|		|		|		|
-															
-
-
-
-
-
 
 
 
