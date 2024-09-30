@@ -12,18 +12,18 @@ This project aims to:
 ## Collected Information
 
 The following details are collected for each TryHackMe room:
- 
-- **Name**: The title of the room.
+
 - **Link**: URL of the room.
-- **Difficulty**: Difficulty level of the room (e.g., Easy, Medium, Hard).
-- **Room Type**: Type of the room (CTF, Walkthrough, etc.).
-- **Subscription Type**: Indicates if the room is free or requires a subscription.
+- **Name**: The title of the room.
 - **Description**: Brief overview of the room.
-- **Created At**: The date the room was created.
-- **Number of Completion**: How many users have completed the room.
-- **Number of Tasks**: Total tasks within the room.
-- **Creators List**: List of creators who contributed to the room.
+- **Difficulty**: Difficulty level of the room (Info, Easy, Medium, Hard, Insane).
+- **Room Type**: Type of the room (CTF, Walkthrough).
+- **Subscription Type**: Indicates if the room is free or requires a subscription. (Free, Premium)
 - **Duration**: Estimated duration to complete the room, in minutes.
+- **Created Date**: The date the room was created.
+- **Tool Types**: Tool Types used in order to complete the room.
+- **Specific Tools**: Specific tools required to use in order to complete the room.
+- **Target System**: Target name if only specific system is targetted.
 
 ## Features
 
