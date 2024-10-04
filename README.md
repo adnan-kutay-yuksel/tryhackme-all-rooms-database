@@ -42,7 +42,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
-
 | **NO** | **LINK**                                                    | **NAME**                       | **DESCRIPTION**                                                                                                                                                                                                                                            | **DIFFICULTY** | **ROOM TYPE** | **SUBSCRIPTION TYPE** | **DURATION** | **CREATED DATE** | **TOOL TYPES**                                                                                                                 | **SPECIFIC TOOLS**                                                       | **COLOR** | **TARGET SYSTEMS** |
 |--------|-------------------------------------------------------------|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|---------------|-----------------------|--------------|------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-----------|--------------------|
 | 1      | https://tryhackme.com/r/room/crackthehash                   | Crack the hash                 | Cracking hashes challenges                                                                                                                                                                                                                                 | Easy           | CTF           | Free                  | 0            | 18.11.2018       | Password Cracking Tools                                                                                                        | -                                                                        | Red       | Linux              |
@@ -903,6 +902,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | 856    | https://tryhackme.com/r/room/thelondonbridge                | The London Bridge              | The London Bridge is falling down.                                                                                                                                                                                                                         | Medium         | CTF           | Free                  | 60           | 25.09.2024       |                                                                                                                                |                                                                          |           |                    |
 | 857    | https://tryhackme.com/r/room/k2room                         | K2                             | Are you able to make your way through the mountain?                                                                                                                                                                                                        | Hard           | CTF           | Premium               | 180          | 27.09.2024       |                                                                                                                                |                                                                          |           |                    |
 | 858    | https://tryhackme.com/r/room/ohsint                         | OhSINT                         | Are you able to use open source intelligence to solve this challenge?                                                                                                                                                                                      | Easy           | Walkthrough   | Free                  | 60           | 12.04.2019       | Forensic Tools                                                                                                                 | -                                                                        | Blue      | -                  |
+
+
+
+
+
+
+
 
 
 
