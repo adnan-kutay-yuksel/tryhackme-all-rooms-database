@@ -1,12 +1,12 @@
 # TryHackMe Room Database
 
-A comprehensive tool for collecting and categorizing TryHackMe rooms. This project provides detailed information about each room, including difficulty, room type, subscription status, and more to facilitate a better user experience in cybersecurity training.
+A comprehensive tool designed to collect and categorize TryHackMe rooms. This project provides detailed information about each room, including difficulty, room type, subscription status, and more, to enhance the user experience in cybersecurity training.
 
 ## Project Goals
 
 This project aims to:
 - Automatically scrape and gather information about TryHackMe rooms.
-- Organize the data in a structured CSV format for easy access and analysis.
+- Organize the data into a structured CSV format for easy access and analysis.
 - Help users identify rooms based on their preferences and requirements.
 
 ## Collected Information
@@ -14,30 +14,31 @@ This project aims to:
 The following details are collected for each TryHackMe room:
 
 - **Link**: URL of the room.
-- **Name**: The title of the room.
-- **Description**: Brief overview of the room.
-- **Difficulty**: Difficulty level of the room (Info, Easy, Medium, Hard, Insane).
-- **Room Type**: Type of the room (CTF, Walkthrough).
-- **Subscription Type**: Indicates if the room is free or requires a subscription. (Free, Premium)
-- **Duration**: Estimated duration to complete the room, in minutes.
+- **Name**: The room's title.
+- **Description**: A brief overview of the room.
+- **Difficulty**: Difficulty level (Info, Easy, Medium, Hard, Insane).
+- **Room Type**: The type of room (CTF, Walkthrough).
+- **Subscription Type**: Indicates whether the room is free or requires a subscription (Free, Premium).
+- **Duration**: Estimated time to complete the room, in minutes.
 - **Created Date**: The date the room was created.
-- **Tool Types**: Tool Types used in order to complete the room.
-- **Specific Tools**: Specific tools required to use in order to complete the room.
-- **Target System**: Target name if only specific system is targetted.
+- **Tool Types**: Types of tools required to complete the room.
+- **Specific Tools**: Specific tools necessary to complete the room.
+- **Target System**: The target name if a specific system is targeted.
 
 ## Features
 
-- **Automated Scraping**: Gather data from multiple pages on TryHackMe.
-- **Structured Output**: Save room details in a well-organized CSV file.
-- **User-Friendly**: Easy to run and modify for individual needs.
+- **Automated Scraping**: Gathers data from multiple pages on TryHackMe.
+- **Structured Output**: Saves room details in a well-organized CSV file.
+- **User-Friendly**: Easy to run and modify to suit individual needs.
 
 ## Contact
 
-For inquiries or suggestions, please reach out to [me](mailto:a.k.yuksel@hotmail.com).
+For inquiries or suggestions, please reach out to me via [email](mailto:a.k.yuksel@hotmail.com).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 
 
