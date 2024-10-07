@@ -12,7 +12,7 @@ This project aims to:
 ## Collected Information
 
 The following details are collected for each TryHackMe room:
-
+ 
 - **Link**: URL of the room.
 - **Name**: The room's title.
 - **Description**: A brief overview of the room.
