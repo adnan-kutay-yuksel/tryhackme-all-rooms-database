@@ -7,18 +7,7 @@ A comprehensive tool designed to collect and categorize TryHackMe rooms. This pr
 This project aims to:
 - Automatically scrape and gather information about TryHackMe rooms.
 - Organize the data into a structured CSV format for easy access and analysis.
-- Help users identify rooms based on their preferences and requirements.
-
-<details>
-  <summary>Click to expand!</summary>
-
-  This is the hidden content that becomes visible when you click on the summary.
-
-  - You can include lists
-  - Or any other Markdown elements
-  - **Bold text**, *italic*, and more
-
-</details>
+- Help users identify rooms based on their preferences and requirements.  
 
 
 ## Collected Information
