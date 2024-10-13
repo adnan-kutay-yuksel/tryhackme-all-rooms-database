@@ -4,10 +4,11 @@ A comprehensive tool designed to collect and categorize TryHackMe rooms. This pr
 
 ## Project Goals
 
-This project aims to:
-- Automatically scrape and gather information about TryHackMe rooms.
-- Organize the data into a structured CSV format for easy access and analysis.
-- Help users identify rooms based on their preferences and requirements.  
+This project aims to achieve the following:
+
+- **Automatically collect and organize information about TryHackMe rooms**: This project includes a web scraper that gathers details from TryHackMe rooms, such as room names, descriptions, difficulty levels, and categories.
+- **Store the gathered data in a structured CSV file**: The collected information is saved in a CSV format, which makes it easier for users to sort, filter, and analyze the data using spreadsheet software or other analysis tools.
+- **Assist users in finding the right rooms for their needs**: By providing a clear and well-organized list of available TryHackMe rooms, users can quickly identify rooms that match their learning preferences, such as specific topics or difficulty levels.
 
 
 ## Collected Information
