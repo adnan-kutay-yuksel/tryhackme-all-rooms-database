@@ -9,7 +9,7 @@
 
 
 
-# TryHackMe Room Database
+# TryHackMe All Rooms Database
 
 A comprehensive tool designed to collect and categorize TryHackMe rooms. This project provides detailed information about each room, including difficulty, room type, subscription status, and more, to enhance the user experience in cybersecurity training.
 
