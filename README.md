@@ -45,6 +45,10 @@ The following details are collected for each TryHackMe room:
 - **Structured Output**: Saves room details in a well-organized CSV file.
 - **User-Friendly**: Easy to run and modify to suit individual needs.
 
+## Contribution
+
+Feel free to contribute to this project! Whether you have suggestions, find issues, or want to add new features, all contributions are welcome.
+
 ## Contact
 
 For inquiries or suggestions, please reach out to me via [email](mailto:a.k.yuksel@hotmail.com).
