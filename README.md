@@ -25,6 +25,7 @@
 
 ![Progress](https://img.shields.io/badge/Progress-70%25-brightgreen?style=for-the-badge&logo=github)
 
+![CircleCI](https://img.shields.io/circleci/build/:vcsType/:user/:repo)
 
 
 
