@@ -10,6 +10,12 @@
 
 ![Progress](https://img.shields.io/badge/progress-75%25-brightgreen?style=for-the-badge&logo=github&logoColor=white)
 
+  <svg width="200" height="200" viewBox="-25 -25 250 250" version="1.1" xmlns="http://www.w3.org/2000/svg" style="transform:rotate(-90deg)">
+    <circle r="90" cx="100" cy="100" fill="transparent" stroke="#e0e0e0" stroke-width="16px"></circle>
+    <circle r="90" cx="100" cy="100" stroke="#76e5b1" stroke-width="16px" stroke-linecap="round" stroke-dashoffset="118.692px" fill="transparent" stroke-dasharray="565.48px"></circle>
+    <text x="71px" y="115px" fill="#6bdba7" font-size="52px" font-weight="bold" style="transform:rotate(90deg) translate(0px, -196px)">79</text>
+  </svg>
+
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
   <circle cx="50" cy="50" r="40" stroke="#e6e6e6" stroke-width="10" fill="none" />
   <circle cx="50" cy="50" r="40" stroke="#4CAF50" stroke-width="10" fill="none" 
