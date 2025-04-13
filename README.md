@@ -8,44 +8,6 @@
 [![linkedin-share](https://img.shields.io/badge/Share-on%20LinkedIn-blue)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fadnan-kutay-yuksel%2Ftryhackme-all-rooms-database&title=Check%20out%20the%20TryHackMe%20All%20Rooms%20Database%20project&summary=Explore%20all%20rooms%20from%20TryHackMe%20in%20a%20well-organized%20database!&source=LinkedIn)
 
 
-![Progress](https://img.shields.io/badge/progress-75%25-brightgreen?style=for-the-badge&logo=github&logoColor=white)
-
-  <svg width="200" height="200" viewBox="-25 -25 250 250" version="1.1" xmlns="http://www.w3.org/2000/svg" style="transform:rotate(-90deg)">
-    <circle r="90" cx="100" cy="100" fill="transparent" stroke="#e0e0e0" stroke-width="16px"></circle>
-    <circle r="90" cx="100" cy="100" stroke="#76e5b1" stroke-width="16px" stroke-linecap="round" stroke-dashoffset="118.692px" fill="transparent" stroke-dasharray="565.48px"></circle>
-    <text x="71px" y="115px" fill="#6bdba7" font-size="52px" font-weight="bold" style="transform:rotate(90deg) translate(0px, -196px)">79</text>
-  </svg>
-
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="50" cy="50" r="40" stroke="#e6e6e6" stroke-width="10" fill="none" />
-  <circle cx="50" cy="50" r="40" stroke="#4CAF50" stroke-width="10" fill="none" 
-          stroke-dasharray="251.2" stroke-dashoffset="62.8" transform="rotate(-90 50 50)" />
-  <text x="50" y="55" font-family="Arial" font-size="20" text-anchor="middle" fill="#4CAF50">75%</text>
-</svg>
-
-<img src="https://progress-bar.dev/70/?type=circle&width=100&height=100&color=ff69b4&label=Progress" />
-
-
-<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/path-to-your-svg.svg" width="100">
-
-
-![Progress](https://img.shields.io/badge/Progress-70%25-brightgreen?style=for-the-badge&logo=github)
-
-![CircleCI](https://img.shields.io/circleci/build/:vcsType/:user/:repo)
-
-
-![CircleCI](https://img.shields.io/circleci/build/:vcsType/:adnan-kutay-yuksel/:tryhackme-all-rooms-database)
-
-<script src="https://cdn.jsdelivr.net/gh/tomickigrzegorz/circular-progress-bar@1.2.4/dist/circularProgressBar.min.js"></script>
-<script src="./path/to/circularProgressBar.min.js"></script>
-
-<div class="pie" data-pie='{ "percent": 80 }'></div>
-
-<div class="pie" data-pie='{ "round": true, "percent": 80, "colorSlice": "#E91E63", "time": 20 }'></div>
-<div class="pie" data-pie='{ "lineargradient": ["#ffff00","#ff0000"], "percent": 20, "colorSlice": "#000", "colorCircle": "#e6e6e6", "strokeWidth": 15, "number": false }'></div>
-
-
-
 
 
 # TryHackMe All Rooms Database
