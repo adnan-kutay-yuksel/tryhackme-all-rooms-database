@@ -8,7 +8,7 @@
 [![linkedin-share](https://img.shields.io/badge/Share-on%20LinkedIn-blue)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fadnan-kutay-yuksel%2Ftryhackme-all-rooms-database&title=Check%20out%20the%20TryHackMe%20All%20Rooms%20Database%20project&summary=Explore%20all%20rooms%20from%20TryHackMe%20in%20a%20well-organized%20database!&source=LinkedIn)
 
 
-<img src="https://progress-bar.dev/70/?type=circle&width=100&height=100&title=progress" alt="Progress" />
+![Progress](https://img.shields.io/badge/progress-75%25-brightgreen?style=for-the-badge&logo=github&logoColor=white)
 
 
 
