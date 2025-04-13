@@ -17,6 +17,15 @@
   <text x="50" y="55" font-family="Arial" font-size="20" text-anchor="middle" fill="#4CAF50">75%</text>
 </svg>
 
+<img src="https://progress-bar.dev/70/?type=circle&width=100&height=100&color=ff69b4&label=Progress" />
+
+
+<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/path-to-your-svg.svg" width="100">
+
+
+![Progress](https://img.shields.io/badge/Progress-70%25-brightgreen?style=for-the-badge&logo=github)
+
+
 
 
 # TryHackMe All Rooms Database
