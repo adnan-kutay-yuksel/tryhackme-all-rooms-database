@@ -10,6 +10,13 @@
 
 ![Progress](https://img.shields.io/badge/progress-75%25-brightgreen?style=for-the-badge&logo=github&logoColor=white)
 
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50" cy="50" r="40" stroke="#e6e6e6" stroke-width="10" fill="none" />
+  <circle cx="50" cy="50" r="40" stroke="#4CAF50" stroke-width="10" fill="none" 
+          stroke-dasharray="251.2" stroke-dashoffset="62.8" transform="rotate(-90 50 50)" />
+  <text x="50" y="55" font-family="Arial" font-size="20" text-anchor="middle" fill="#4CAF50">75%</text>
+</svg>
+
 
 
 # TryHackMe All Rooms Database
