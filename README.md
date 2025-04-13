@@ -30,6 +30,16 @@
 
 ![CircleCI](https://img.shields.io/circleci/build/:vcsType/:adnan-kutay-yuksel/:tryhackme-all-rooms-database)
 
+<script src="https://cdn.jsdelivr.net/gh/tomickigrzegorz/circular-progress-bar@1.2.4/dist/circularProgressBar.min.js"></script>
+<script src="./path/to/circularProgressBar.min.js"></script>
+
+<div class="pie" data-pie='{ "percent": 80 }'></div>
+
+<div class="pie" data-pie='{ "round": true, "percent": 80, "colorSlice": "#E91E63", "time": 20 }'></div>
+<div class="pie" data-pie='{ "lineargradient": ["#ffff00","#ff0000"], "percent": 20, "colorSlice": "#000", "colorCircle": "#e6e6e6", "strokeWidth": 15, "number": false }'></div>
+
+
+
 
 
 # TryHackMe All Rooms Database
