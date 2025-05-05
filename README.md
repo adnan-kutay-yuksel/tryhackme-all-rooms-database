@@ -9,55 +9,67 @@
 
 
 
-
 # TryHackMe All Rooms Database
 
-A comprehensive tool designed to collect and categorize TryHackMe rooms. This project provides detailed information about each room, including difficulty, room type, subscription status, and more, to enhance the user experience in cybersecurity training.
+A comprehensive and structured database of all available **TryHackMe** rooms, designed to help cybersecurity learners navigate and track progress through labs and challenges. This project presents key information about each room, including difficulty, room type, subscription level, and tool usage.
 
-## Project Goals
+## 🎯 Project Goals
 
-This project aims to achieve the following:
+This project aims to:
 
-- **Automatically collect and organize information about TryHackMe rooms**: This project includes a web scraper that gathers details from TryHackMe rooms, such as room names, descriptions, difficulty levels, and categories.
-- **Store the gathered data in a structured CSV file**: The collected information is saved in a CSV format, which makes it easier for users to sort, filter, and analyze the data using spreadsheet software or other analysis tools.
-- **Assist users in finding the right rooms for their needs**: By providing a clear and well-organized list of available TryHackMe rooms, users can quickly identify rooms that match their learning preferences, such as specific topics or difficulty levels.
+- **Automatically collect and organize** all TryHackMe rooms via web scraping.
+- **Store data in a structured CSV format** to allow filtering, sorting, and analysis.
+- **Help users choose rooms** that match their goals based on topics, difficulty, and tools.
 
+## 📊 Collected Data Points
 
-## Collected Information
+Each row in the dataset includes:
 
-The following details are collected for each TryHackMe room:
- 
-- **Link**: URL of the room.
-- **Name**: The room's title.
-- **Description**: A brief overview of the room.
-- **Path**: The path which the room belongs to.
-- **Difficulty**: Difficulty level (Info, Easy, Medium, Hard, Insane).
-- **Room Type**: The type of room (CTF, Walkthrough).
-- **Subscription Type**: Indicates whether the room is free or requires a subscription (Free, Premium).
-- **Duration**: Estimated time to complete the room, in minutes.
-- **Created Date**: The date the room was created.
-- **Tool Types**: Types of tools required to complete the room.
-- **Specific Tools**: Specific tools necessary to complete the room.
-- **Target System**: The target name if a specific system is targeted.
+- **Link**: Direct URL to the TryHackMe room.
+- **Name**: Title of the room.
+- **Description**: Summary of the room content.
+- **Path**: If part of a learning path.
+- **Difficulty**: Info, Easy, Medium, Hard, or Insane.
+- **Room Type**: Type of the room (e.g., CTF, Walkthrough).
+- **Subscription Type**: Free or Premium.
+- **Duration (min)**: Estimated time to complete the room.
+- **Created Date**: Date the room was published.
+- **Tool Types**: General categories of tools required (e.g., Networking, Forensics).
+- **Specific Tools**: Exact tools used (e.g., Nmap, Wireshark).
+- **Target System**: The environment or OS being targeted (e.g., Linux, Windows).
+- **Writeup Link**: URL to writeup if available.
+- **Ready to Writeup?**: Personal tracking column.
+- **Extra Info**: Additional notes.
 
-## Features
+## 🚀 Features
 
-- **Automated Scraping**: Gathers data from multiple pages on TryHackMe.
-- **Structured Output**: Saves room details in a well-organized CSV file.
-- **User-Friendly**: Easy to run and modify to suit individual needs.
+- ✅ Automated web scraping  
+- ✅ Clean and structured CSV export  
+- ✅ Designed for learning path planning  
+- ✅ Easy to extend and customize
 
-## Contribution
+## 🧠 Use Cases
 
-Feel free to contribute to this project! Whether you have suggestions, find issues, or want to add new features, all contributions are welcome.
+- Find beginner or advanced labs based on difficulty  
+- Identify rooms using specific tools  
+- Track which rooms you've completed or plan to write up  
+- Build personalized study paths using topics or paths
 
-## Contact
+## 🤝 Contributing
 
-For inquiries or suggestions, please reach out to me via [email](mailto:a.k.yuksel@hotmail.com).
+Pull requests are welcome! You can contribute by:
 
-## License
+- Adding more metadata to rooms  
+- Improving the scraping script  
+- Sharing your writeups or insights
+
+## 📬 Contact
+
+For suggestions, issues, or collaboration: [CONTACT ME](mailto:a.k.yuksel@hotmail.com)
+
+## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 
 
 
