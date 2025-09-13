@@ -76,7 +76,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 
-
 | **NO** | **LINK** | **NAME** | **DESCRIPTION** | **PATH** | **DIFFICULTY** | **ROOM TYPE** | **SUBSCRIPTION TYPE** | **DURATION** | **CREATED DATE** | **TOOL TYPES** | **SPECIFIC TOOLS** | **COLOR** | **TARGET SYSTEMS** | **WRITEUP LINK** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | https://tryhackme.com/room/crackthehash | Crack the hash | Cracking hashes challenges |  | Easy | CTF | Free | 0 | 18.11.2018 | Password Cracking Tools | hashcat | Red, Blue | Linux | https://medium.com/traditional-cyber-security/tryhackme-crack-the-hash-ctf-writeup-00a0fe1eb361 |
@@ -1101,9 +1100,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 | 1018 | https://tryhackme.com/room/malwareclassification | Malware Classification | Learn how to identify, classify, and understand common types of malware. |  | Easy | Walkthrough | Free | 45 | 03.09.2025 |  |  |  |  |  |
 | 1019 | https://tryhackme.com/room/ipanddomainthreatintel | IP and Domain Threat Intel | A look into enriching IP and domain insights with open source threat intelligence. |  | Medium | Walkthrough | Premium | 60 | 04.09.2025 |  |  |  |  |  |
 | 1020 | https://tryhackme.com/room/pressedroom | Pressed | A full-scale intrusion was recently detected within the network, raising critical alarms. |  | Medium | CTF | Premium | 90 | 05.09.2025 |  |  |  |  |  |
-| 1021 | https://tryhackme.com/room/socroleinblueteam | SOC Role in Blue Team | Discover security roles and learn how to advance your SOC career, starting from the L1 analyst. |  | Easy | Walkthrough | Free | 30 | 10.09.2025 |  |  |  |  |  |
+| 1021 | https://tryhackme.com/room/socroleinblueteam | SOC Role in Blue Team | Discover security roles and learn how to advance your SOC career, starting from the L1 analyst. |  | Easy | Walkthrough | Free | 30 | 10.09.2025 | - | - | Blue | - | https://akyuksel.medium.com/tryhackme-soc-role-in-blue-team-ctf-writeup-3e814a1fecff |
 | 1022 | https://tryhackme.com/room/detectingwebattacks | Detecting Web Attacks | Explore web attacks and detection methods through log and network traffic analysis. |  | Easy | Walkthrough | Free | 60 | 12.09.2025 |  |  |  |  |  |
 | 1023 | https://tryhackme.com/room/invite-only | Invite Only | Extract insight from a set of flagged artefacts, and distil the information into usable threat intelligence. |  | Easy | CTF | Premium | 60 | 12.09.2025 |  |  |  |  |  |
+
 
 
 
