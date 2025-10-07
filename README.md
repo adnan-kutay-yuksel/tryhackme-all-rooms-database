@@ -269,7 +269,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 | 188 | https://tryhackme.com/room/res | Walkthrough | Discover the forensic artefacts present within iOS. |  | Easy | CTF | Premium | 30 | 02.10.2020 |  |  |  |  |  |
 | 189 | https://tryhackme.com/room/historyofmalware | History of Malware | Join this room to learn about the first forms of malware and how they turned into the malicious code we see today. | Cyber Defense | Info | Walkthrough | Free | 30 | 04.10.2020 | - | - | - | - |  |
 | 190 | https://tryhackme.com/room/toc2 | toc2 | It's a setup... Can you get the flags in time? |  | Medium | CTF | Free | 30 | 06.10.2020 |  |  |  |  |  |
-| 191 | https://tryhackme.com/room/zer0logon | Zero Logon | It's a setup... Can you get the flags in time? | Cyber Defense | Hard | Walkthrough | Premium | 0 | 07.10.2020 |  |  |  |  |  |
+| 191 | https://tryhackme.com/room/zer0logon | Zero Logon | It's a setup... Can you get the flags in time? | Cyber Defense | Hard | Walkthrough | Premium | 0 | 07.10.2020 |  |  |  | - |  |
 | 192 | https://tryhackme.com/room/psychobreak | Psycho Break | Learn about and exploit the ZeroLogon vulnerability that allows an attacker to go from Zero to Domain Admin without any valid credentials. |  | Easy | CTF | Free | 0 | 09.10.2020 |  |  |  |  |  |
 | 193 | https://tryhackme.com/room/yearofthepig | Year of the Pig | Some pigs do fly... |  | Hard | CTF | Free | 0 | 11.10.2020 |  |  |  |  |  |
 | 194 | https://tryhackme.com/room/revenge | Revenge | You've been hired by Billy Joel to get revenge on Ducky Inc...the company that fired him. Can you break into the server and complete your mission? |  | Medium | CTF | Free | 0 | 11.10.2020 |  |  |  |  |  |
