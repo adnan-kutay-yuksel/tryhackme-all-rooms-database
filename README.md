@@ -18,7 +18,7 @@ A comprehensive and structured database of all available **TryHackMe** rooms, de
 This project aims to:
 
 - **Automatically collect and organize** all TryHackMe rooms via web scraping.
-- **Store data in a structured CSV format** to allow filtering, sorting, and analysis.
+- **Store data in a structured CSV format** to allow filtering, searching, sorting, and analysis.
 - **Help users choose rooms** that match their goals based on topics, difficulty, and tools.
 
 ## 📊 Collected Data Points
