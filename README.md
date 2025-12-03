@@ -7,7 +7,42 @@
 [![twitter-share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fadnan-kutay-yuksel%2Ftryhackme-all-rooms-database)](https://twitter.com/intent/tweet?text=Check%20out%20the%20TryHackMe%20All%20Rooms%20Database%20project%20on%20GitHub!%0D%0A&url=https%3A%2F%2Fgithub.com%2Fadnan-kutay-yuksel%2Ftryhackme-all-rooms-database)
 [![linkedin-share](https://img.shields.io/badge/Share-on%20LinkedIn-blue)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fadnan-kutay-yuksel%2Ftryhackme-all-rooms-database&title=Check%20out%20the%20TryHackMe%20All%20Rooms%20Database%20project&summary=Explore%20all%20rooms%20from%20TryHackMe%20in%20a%20well-organized%20database!&source=LinkedIn)
 
- 
+
+ # ⚠️ Repository Status: No Longer Maintained
+
+## Important Notice
+
+This repository is **no longer actively maintained** as of December 2024. The existing content will remain publicly accessible for the community, but no further updates will be provided.
+
+## Background
+
+This project was created as a community contribution to help TryHackMe users navigate and track available rooms. However, maintaining this database requires significant time and effort to:
+- Continuously scrape and update room information
+- Verify data accuracy
+- Keep up with platform changes
+- Manage infrastructure costs
+
+## Why This Decision?
+
+While I'm proud of what this project achieved, **TryHackMe has not provided any official support, API access, or collaboration** for this initiative. Without platform support, maintaining this database has become **unsustainable from both a time and cost perspective** given my personal and professional commitments.
+
+## For Users
+
+- The **last updated data remains available** for anyone who finds it useful
+- You're welcome to **fork this repository** and continue the work if you wish
+- The code and methodology are open for anyone to adapt
+
+## For TryHackMe
+
+If TryHackMe ever decides to provide official API access or support for community data projects, I'd be happy to revisit this initiative.
+
+---
+
+Thank you to everyone who used and appreciated this resource. I hope it was helpful during its active period.
+
+**Last Update:** [Date]  
+**Final Database Status:** [Number] rooms indexed
+
 
 # TryHackMe All Rooms Database
 
